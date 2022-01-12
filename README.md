@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Coman95
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on the web
+- 👋 Hi
+- 🌱 currently learning
 - 📫 How to reach me ... - comancosmin@protonmail.com
 
 <!---
